@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "knplabs/github-api": "^2.0",
+        "php-http/guzzle6-adapter": "^1.0",
+        "lcobucci/jwt": "^3.2.0"
+    }
+}
